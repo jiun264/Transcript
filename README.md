@@ -1,2 +1,2 @@
 # Transcript
-Transcript gutar
+Transcript guitar
